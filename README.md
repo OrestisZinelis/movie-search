@@ -1,6 +1,6 @@
 # movie-search
 
-A movie search application showcasing the new Composition API of Vue 3.
+An app implemented with Composition API.
 
 The application is based on Vue 2 and uses the [Composition API](https://vue-composition-api-rfc.netlify.com/) 
 with the [@vue/composition-api](https://github.com/vuejs/composition-api) plugin.
